@@ -91,7 +91,7 @@ Becoming a hardware and IoT (Internet of Things) penetration tester requires a c
 
 ### 7. Networking and Professional Development:
 - Join online forums, communities, and social media groups to connect with professionals in the field.
-  - [ ] Join online forums and discussion groups focused on IoT and hardware security, such as Reddit, Stack Exchange, and specialized communities like the OWASP IoT Project. Participate in discussions, ask questions, and share your knowledge with others.
+  - [ ] Join online forums and discussion groups focused on IoT and hardware security, such as Reddit, Stack Exchange, and specialized communities like the [OWASP IoT Project](https://owasp.org/www-pdf-archive/OWASP-IoT-Top-10-2018-final.pdf). Participate in discussions, ask questions, and share your knowledge with others.
   - [ ] Follow security researchers, influencers, and organizations on social media platforms like Twitter and LinkedIn. This will help you stay updated on the latest research, tools, and trends in IoT and hardware security.
   - [ ] Subscribe to blogs, podcasts, and newsletters that focus on IoT and hardware security topics. Regularly consuming relevant content will help you stay informed and up-to-date with the latest developments in the field.
 - Attend security conferences and events to network with industry experts and potential employers.
