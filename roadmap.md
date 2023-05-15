@@ -88,6 +88,10 @@ Becoming a hardware and IoT (Internet of Things) penetration tester requires a c
 - Hardware security certifications:
   - [ ] Certified Hardware Security Engineer (CHSE): The CHSE certification, offered by the Hardware Security Training Academy, validates your knowledge and skills in hardware security engineering. This certification covers topics such as hardware reverse engineering, side-channel attacks, and secure boot implementation.
   - [ ] GIAC - GIAC Reverse Engineering Malware (GREM): This certification, offered by GIAC, focuses on reverse engineering and analysis of malware. Although not specifically focused on hardware, the skills and knowledge gained through this certification can be applied to firmware analysis and reverse engineering in IoT and hardware security.
+- Hardware hacking courses
+  - [ ] Exploiting Embedded Systems by Offensive Security. This is not a certification, but it's a hands-on course that focuses on exploiting and defending embedded systems.
+  - [ ] Hardware Hacking Courses by BlackHat. These are also not certifications, but these courses offered at the BlackHat conference can provide valuable skills and training.
+  - [ ] Hardware Hacking Training by InfoSec Institute. This training course covers topics like hardware hacking, reverse engineering, and tamper resistance.
 
 ### 7. Networking and Professional Development:
 - Join online forums, communities, and social media groups to connect with professionals in the field.
