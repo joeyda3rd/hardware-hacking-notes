@@ -1,0 +1,38 @@
+A comprehensive list of physcial hardware attack vectors to learn: 
+
+JTAG/Debug Port Attacks
+UART Attacks
+SPI/I2C Bus Snooping
+USB Attacks
+Side Channel Attacks (Power Analysis, EM Analysis, Timing Analysis, Acoustic Analysis)
+Fault Injection Attacks (Voltage Glitching, Clock Glitching, Laser Fault Injection, EMFI)
+Microprobing
+Reverse Engineering
+Chip-Off and Direct Read Attacks
+Supply Chain Attacks
+PCB Reverse Engineering
+Firmware Dumping
+Firmware Analysis
+EEPROM Attacks
+RFID Attacks
+NFC Attacks
+Hardware Implants
+Cold Boot Attacks
+Optical Fault Injection
+Invasive Attacks (Depackaging, Microprobing, Focused Ion Beam)
+Semi-Invasive Attacks (Microscopy, UV Attacks)
+Physical Tampering Detection Bypass
+Wireless Interface Exploitation (Bluetooth, Wi-Fi, Zigbee, Z-Wave)
+Hardware Trojans
+Rowhammer Attacks
+DMA Attacks (e.g., FireWire, Thunderbolt)
+ROM Extraction
+Corrosion Attacks
+Port Mirroring and MAC Flooding
+Evil Maid Attacks
+HID Attacks
+Battery Exhaustion Attacks
+System Bus Attacks
+BIOS/UEFI Attacks
+Hotplug Attacks
+RF Spectrum Exploitation
