@@ -9,12 +9,18 @@
 - GitHub: Search for repositories and discussions related to IoT and hardware security on GitHub
 
 ### Researchers, Influencers, and Organizations on Social Media:
+- Joe Grand (@joegrand) - An electrical engineer and the founder of Grand Idea Studio.
+- Karsten Nohl (@knoblochmartens) - A security researcher known for his work on hacking GSM networks.
+- Chris Tarnovsky (@Flylogic) - Known for his work on smartcard security.
+- Colin O'Flynn (@colinoflynn) - Creator of ChipWhisperer, an open-source tool for side channel power analysis and glitching attacks.
+- Bunnie Huang (@bunniestudios) - Famous for his work on the Xbox, Chumby, and Novena, and he has an active blog about hardware hacking.
+- Samy Kamkar (@samykamkar) - Known for creating the fastest spreading virus of all time (MySpace's Samy worm) and various hardware hacking projects.
 - Ken Munro (@TheKenMunroShow): IoT security researcher and founder of Pen Test Partners
 - Joe FitzPatrick (@securelyfitz): Hardware security trainer and researcher
 - Katie Moussouris (@k8em0): Founder of Luta Security, a vulnerability disclosure expert
 - Bruce Schneier (@schneierblog): Security expert, author, and CTO of Inrupt
 - Daniel Miessler (@DanielMiessler): IoT security expert, blogger, and podcaster
-- Organizations: OWASP (@owasp), NIST Cybersecurity (@NISTcyber), Internet of Things Consortium (@iotconsortium), Armis Security (@ArmisSecurity), IoT Security Foundation (@IoT_SF)
+- Organizations: OWASP (@owasp), NIST Cybersecurity (@NISTcyber), Internet of Things Consortium (@iotconsortium), Armis Security (@ArmisSecurity), IoT Security Foundation (@IoT_SF), EFF (@EFF), HardwareIO (@hardwear_io), Def Con (@defcon), Black Hat (@BlackHatEvents), Chaos Communication Congress (CCC) (@CCC), REcon (@reconmtl for REcon Montreal, @reconbrx for REcon Brussels), RSA Conference (@RSAConference)
 
 ### Blogs, Podcasts, and Newsletters:
 - Dark Reading: A news website that covers cybersecurity, including IoT security (https://www.darkreading.com/)
