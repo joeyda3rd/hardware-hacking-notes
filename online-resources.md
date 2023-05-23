@@ -1,6 +1,13 @@
 # Online resources
 ## Here are a list of places and people to start following
 
+### Courses 
+#### Free Courses
+ - https://securinghardware.com/training/courses/#free-workshops
+#### Paid Courses
+ - https://securinghardware.com/training/courses/
+
+
 ### Online Forums and Discussion Groups:
 - Reddit: r/netsec, r/AskNetsec, r/IOT, r/hardwarehacking
 - Stack Exchange: Information Security Stack Exchange, Internet of Things Stack Exchange, Reverse Engineering Stack Exchange
