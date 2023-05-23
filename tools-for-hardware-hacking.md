@@ -23,6 +23,7 @@ This list encompasses essential tools and materials needed for hardware hacking,
 - [x] Microcontroller Board (Arduino Uno)
 - [x] Single-board Computer (Raspberry Pi 4)
 - [ ] JTAG Debugger (Segger J-Link)
+- [ ] JTAGulator
 - [x] FTDI Cable/Board (TTL-232R-3V3)
 - [ ] Bus Pirate
 - [ ] Binary Ninja
