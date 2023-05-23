@@ -1,7 +1,7 @@
 # Hardware Security/Hacking Notes (2023)
 ### by Joey Marino 
 
-This resource is intended to be a comprehensive guide to becoming a hardware security professional, hacking into embedded and IoT systems. 
+This resource is intended to be a comprehensive guide and progress report on the road to becoming a hardware security professional, hacking into embedded and IoT systems. 
 
 - [A possible roadmap for becoming a hardware security professional](roadmap.md)
 - [Online resources](online-resources.md)
