@@ -1,10 +1,11 @@
 # Online resources
 ## Here are a list of places and people to start following
 
-### Courses 
-#### Free Courses
+### Courses/Talks 
+#### Free
  - https://securinghardware.com/training/courses/#free-workshops
-#### Paid Courses
+ - https://hardwear.io/archives/usa-2022/
+#### Paid
  - https://securinghardware.com/training/courses/
 
 
