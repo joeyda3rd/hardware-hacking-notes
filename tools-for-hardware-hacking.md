@@ -26,7 +26,7 @@ This list encompasses essential tools and materials needed for hardware hacking,
 - [x] FTDI Cable/Board (TTL-232R-3V3)
 - [ ] Bus Pirate
 - [ ] Binary Ninja
-- [ ] ChipWhisperer for side channel analysis and fault injection
+- [ ] ChipWhisperer
 - [x] Tigard FT2232H-based multi-protocol, multi-voltage tool for hardware hacking
 - [ ] Tag-Connect cables for programming and debugging
 
