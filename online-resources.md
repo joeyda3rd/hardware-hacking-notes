@@ -4,7 +4,7 @@
 ### Courses/Talks 
 #### Free
  - https://securinghardware.com/training/courses/#free-workshops
- - https://hardwear.io/archives/usa-2022/
+ - https://hardwear.io/archives/
 #### Paid
  - https://securinghardware.com/training/courses/
 
