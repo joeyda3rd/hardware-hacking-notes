@@ -1,7 +1,7 @@
 # Hardware Hacking/Security Literature
 
 - [ ] **"The Hardware Hacker: Adventures in Making and Breaking Hardware" by Andrew "bunnie" Huang**: This book gives you a tour of the global technology and a guide to the foundations of hardware nature.
-- [ ] **"The Hardware Hacking Handbook BREAKING EMBEDDED SECURITY WITH HARDWARE ATTACKS" By Jasper van Woudenberg and Colin O’Flynn**: akes you deep inside embedded devices to show how different kinds of attacks work, then guides you through each hack on real hardware. 
+- [ ] **"The Hardware Hacking Handbook BREAKING EMBEDDED SECURITY WITH HARDWARE ATTACKS" By Jasper van Woudenberg and Colin O’Flynn**: Takes you deep inside embedded devices to show how different kinds of attacks work, then guides you through each hack on real hardware. 
 - [ ] **"Hacking: The Art of Exploitation, 2nd Edition" by Jon Erickson**: While not purely about hardware, it provides a great introduction to hacking in general, including some aspects of hardware exploitation.
 - [ ] **"Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation" by Bruce Dang, Alexandre Gazet, and Elias Bachaalany**: A practical guide to reverse engineering, a fundamental hardware hacking skill.
 - [ ] **"Hardware Hacking: Have Fun While Voiding Your Warranty" by Joe Grand, Ryan Russell, Tom Owad, and Kevin D. Mitnick**: This book covers a wide range of hardware hacking topics.
