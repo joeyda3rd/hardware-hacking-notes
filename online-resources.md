@@ -9,6 +9,10 @@
 #### Paid
  - https://securinghardware.com/training/courses/
 
+YouTube
+ - https://www.youtube.com/@LiveOverflow
+ - https://www.youtube.com/@stacksmashing
+ - https://www.youtube.com/@JoeGrand
 
 ### Online Forums and Discussion Groups:
 - Reddit: r/netsec, r/AskNetsec, r/IOT, r/hardwarehacking
