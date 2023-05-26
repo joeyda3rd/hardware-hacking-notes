@@ -5,7 +5,7 @@
 #### Free
  - https://securinghardware.com/training/courses/#free-workshops
  - https://hardwear.io/archives/
-http://www.grandideastudio.com/portfolio/security/
+ - http://www.grandideastudio.com/portfolio/security/
 #### Paid
  - https://securinghardware.com/training/courses/
 
