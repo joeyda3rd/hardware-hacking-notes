@@ -9,3 +9,4 @@ This resource is intended to be a comprehensive guide and progress report on the
 - [Software to learn for hardware hacking](hardware-hacking-software.md)
 - [Hardware hacking literature](hardware-hacking-literature.md)
 - [Online resources](online-resources.md)
+- [Lessons](lessons/)
