@@ -21,3 +21,6 @@
 - [ ] **"On the Importance of Eliminating Errors in Cryptographic Computations,” by Dan Boneh, Richard A. DeMillo, and Richard J. Lipton**, introduced the Bellcore DFA attack on RSA
 - [ ] **"Correlation Power Analysis in the Frequency Domain” by O. Schimmel et al., presented at COSADE 2010**
 - [ ] **"Power Analysis Attacks : Revealing the Secrets of Smart Cards" (Springer , 2010), by Stefan Mangard, Elisabeth Oswald, and Thomas Popp**
+- [ ] **“Printed Circuit Board Deconstruction Techniques” USENIX paper**, by Joe Grand
+- [ ] **"PCB-RE: Tools & Techniques" (CreateSpace Independent Publishing, 2017).** Ng Keng Tiong
+- [ ] **"The IDA Pro Book", 2nd edition (No Starch Press, 2011) by Chris Eagle**
