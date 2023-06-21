@@ -8,3 +8,16 @@
 - [ ] **"The Car Hacker's Handbook: A Guide for the Penetration Tester" by Craig Smith**: This book guides you through the complex world of automobile electronics and shows you how to hack modern vehicles.
 - [ ] **"Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation" by James Forshaw**: While not purely a hardware book, it is highly useful for understanding and exploiting network protocols, a crucial skill for many hardware hacks.
 - [ ] **"Embedded Systems Security: Practical Methods for Safe and Secure Software and Systems Development" by David Kleidermacher and Mike Kleidermacher**: This book provides a comprehensive guide to security and the development of embedded systems.
+- [ ] **"Printed Circuit Board Designer’s Reference: Basics" (Prentice Hall, 2003), by Christopher T. Robertson**
+- [ ] **"The Ghidra Book" (No Starch Press, 2020) by Chris Eagle and Kara Nance**
+- [ ] **"Software Fault Injection" (Wiley, 1998) by Jeffrey M. Voas et al.**
+- [ ] **"Fault Analysis in Cryptography" (Springer , 2012), edited by Marc Joye and Michael Tunstall**
+- [ ] **"On Reliability of EMFI for in-situ Automotive ECU Attacks” (ESCAR EU, 2020)**
+- [ ] **"Optical Fault Induction Attacks” (CHES 2002) by Skorobogatov and Ross J. Anderson**
+- [ ] **“Electro Magnetic Fault Injection in Practice” by Rajesh V elegalati, Robert Van Spyk, and Jasper van Woudenberg (ICMC, 2013)**
+- [ ] **"Techniques for EM Fault Injection: Equipments and Experimental Results” (FDTC 2012) by Philippe Maurine**
+- [ ] **"Low-Cost Body Biasing Injection (BBI) Attacks on WLCSP Devices” by Colin O’Flynn (CARDIS, 2020)**
+- [ ] **"Serious Cryptography" (No Starch Press, 2018) by Jean-Philippe Aumasson**
+- [ ] **"On the Importance of Eliminating Errors in Cryptographic Computations,” by Dan Boneh, Richard A. DeMillo, and Richard J. Lipton**, introduced the Bellcore DFA attack on RSA
+- [ ] **"Correlation Power Analysis in the Frequency Domain” by O. Schimmel et al., presented at COSADE 2010**
+- [ ] **"Power Analysis Attacks : Revealing the Secrets of Smart Cards" (Springer , 2010), by Stefan Mangard, Elisabeth Oswald, and Thomas Popp**
