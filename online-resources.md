@@ -42,3 +42,11 @@ YouTube
 - IoT For All: A website and newsletter that covers IoT news, including security topics (https://www.iotforall.com/)
 - The Internet of Things Podcast - Stacey On IoT: A podcast by Stacey Higginbotham that covers IoT news, trends, and security (https://staceyoniot.com/podcasts/)
 - Daniel Miessler's Unsupervised Learning: A podcast and newsletter that covers security, technology, and society, including IoT security (https://danielmiessler.com/podcast/)
+
+### Other notables
+- Tarnovsky’ s 2010 Black Hat DC presentation “Deconstructing a ‘Secure’ Processor"
+- Michael Ossmann and Kyle Osborn showed in their 2013 Black Hat talk “Multiplexed Wired Attack Surfaces"
+- "Glitching for n00bs” by exide (REcon 2014)
+- “Implementing Practical Electrical Glitching Attacks” by Brett Giller (Black Hat Europe 2015)
+- "wallet.fail” presentation at Chaos Computer Club (CCC) by Dmitry Nedospasov , Thomas Roth, and Josh Datko
+- "Lowering the Bar: Deep Learning for Side Channel Analysis” by Jasper (available on YouTube)
