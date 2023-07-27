@@ -11,7 +11,7 @@ This list encompasses essential tools and materials needed for hardware hacking,
 - [ ] Programmable Load (BK Precision 8500)
 - [ ] Universal Serial Bus Analyzer (Ellisys USB Explorer 200)
 - [ ] RF Transceiver (HackRF One)
-- [ ] USB Microscope
+- [x] USB Microscope
 - [x] Secure Digital Card Reader
 - [ ] NAND Flash Reader
 - [ ] EPROM Programmer
@@ -27,7 +27,7 @@ This list encompasses essential tools and materials needed for hardware hacking,
 - [x] FTDI Cable/Board (TTL-232R-3V3)
 - [ ] Bus Pirate
 - [ ] Binary Ninja
-- [ ] ChipWhisperer
+- [x] ChipWhisperer
 - [x] Tigard FT2232H-based multi-protocol, multi-voltage tool for hardware hacking
 - [ ] Tag-Connect cables for programming and debugging
 
@@ -56,7 +56,7 @@ This list encompasses essential tools and materials needed for hardware hacking,
 - [x] Enameled Copper Wire
 - [x] Various types of Adhesive (Super glue, Epoxy)
 - [x] Jumper Wires (male-to-male, female-to-female, and male-to-female)
-- [ ] Pomona test clips and probes
+- [x] Pomona test clips and probes
 - [ ] Various connectors and headers (USB, JTAG, SPI, I2C)
 - [x] Shielded Ethernet Cable
 
